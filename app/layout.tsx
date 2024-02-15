@@ -11,8 +11,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'EventHorizon',
-  description: 'EventHorizon is a platform for event management.',
+  title: 'EventPlan🎉',
+  description: 'EventPlan is a platform for event management.',
   icons: {
     icon: '/assets/images/logo.svg'
   }
